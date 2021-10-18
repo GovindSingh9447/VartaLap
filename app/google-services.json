@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178227994203",
+    "project_id": "vartalap-6f44e",
+    "storage_bucket": "vartalap-6f44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178227994203:android:7643b54335f78b20bba97e",
+        "android_client_info": {
+          "package_name": "com.example.vartalap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178227994203-g23lti1emh1q6bofc643ta9ncsg7pfhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF_ZoThu8sG3Q1uro3mzCC7_1bBDAm6cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178227994203-g23lti1emh1q6bofc643ta9ncsg7pfhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
